@@ -1,0 +1,21 @@
+echo "----"
+echo "test 1"
+./solution2.run 1
+
+echo "----"
+echo "test 12"
+./solution2.run 12
+
+echo "----"
+echo "test 123"
+./solution2.run 123
+
+echo "----"
+echo "test 1123"
+./solution2.run 1123
+
+echo "----"
+echo "test 1234567890987654321"
+./solution2.run 1234567890987654321
+
+echo "----"
